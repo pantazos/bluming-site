@@ -8,8 +8,8 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      We've worked with a range a technologies in the online development world.
+      From Back-end To Front-end and UI/UX.
     </SectionText>
     <List>
       <ListItem>
@@ -44,7 +44,7 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            tools like Figma, Adobe XD
           </ListParagraph>
         </ListContainer>
       </ListItem>
