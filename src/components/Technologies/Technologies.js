@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiSwift, DiCode, DiAndroid, DiAws } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -14,31 +14,33 @@ const Technologies = () =>  (
     <List>
       <ListItem>
         <picture>
-          <DiReact size="3rem" />
+          <DiSwift size="3rem" />
+          <DiAndroid size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            iOS (Swift, SwiftUI) and Android
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
           <DiFirebase size="3rem" />
+          <DiAws size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Databases like Firebase and AWS Amplify
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
-          <DiZend size="3rem" />
+          <DiCode size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
