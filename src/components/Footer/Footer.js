@@ -14,8 +14,8 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:apps4devs@outlook.com">
-            apps4devs@outlook.com
+          <LinkItem href="mailto:hello@bluming.ai">
+            hello@bluming.ai
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -24,13 +24,13 @@ const Footer = () => {
           <Slogan>Innovating iOS or Android project for limited price</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/Apps4Devs">
+          <SocialIcons href="https://github.com/BluminG-ai">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/company/apps4devs/">
+          <SocialIcons href="https://www.linkedin.com/company/bluming-ai/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.instagram.com/apps4devs/">
+          <SocialIcons href="https://www.instagram.com/bluming.ai/">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>

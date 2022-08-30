@@ -10,10 +10,10 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Welcome To <br />
-          Apps4Devs | iOS &amp; Android App Templates
+          BluminG.ai | iOS &amp; Android App Templates
         </SectionTitle>
         <SectionText>
-        The purpose of Apps4Devs Community is to help aspiring and established developers to take their development skills to the next level and build awesome iOS and Android apps.
+        The purpose of BluminG.ai Community is to help aspiring and established developers to take their development skills to the next level and build awesome iOS and Android apps.
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
